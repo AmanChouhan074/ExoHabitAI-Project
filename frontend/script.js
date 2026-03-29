@@ -2,7 +2,7 @@
 //  ExoHabitAI — script.js  (complete rewrite)
 // ════════════════════════════════════════════════════
 
-const API_BASE_URL = ("https://exohabit-api.onrender.com",)
+const API_BASE_URL = "https://exohabit-api.onrender.com";
 
 // ── Sample datasets ──────────────────────────────────────────
 const SAMPLE_DATA = {
